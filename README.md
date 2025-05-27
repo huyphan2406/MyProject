@@ -1,1 +1,1 @@
-My new project
+My very first new project
